@@ -1,0 +1,11 @@
+*MASHREQ DIGITAL BANKING - ASSESMENT*
+
+-- Steps to run the test --
+
+ 1. Set the value of 'platform' = 'MAC' or 'WINDOWS' in ./config.properties
+
+ 2. Go to Terminal or Command prompt
+
+ 3. Point to the project location
+
+ 4. Enter command- 'mvn clean install'
